@@ -1,1 +1,5 @@
-[]
+- Account: kl-demo-2
+  MasterIP: ""
+  Name: my-test-1
+  Provider: google
+  Src: my-test-1.yaml
